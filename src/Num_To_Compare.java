@@ -1,3 +1,28 @@
+/*
+Class NumToCompare
+    main()
+        output("What is your number one? ")
+        if(input is integer) then
+            input numOne
+        else
+            terminate
+        end If
+        output("What is your number two? ")
+        if (input is integer) then
+            input numTwo
+        else
+            terminate
+        end If
+        if (numOne == numTwo) then
+            output("The numbers are equal")
+        else if (numOne > numTwo) then
+            output("Number one is larger than number Two")
+        else if (numOne < numTwo) then
+            output ("Number one is less than number Two")
+        end if
+    return
+End Class
+ */
 import java.util.Scanner;
 public class Num_To_Compare {
     public static void main(String[] args)
