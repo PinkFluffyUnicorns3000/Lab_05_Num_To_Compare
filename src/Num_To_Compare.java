@@ -1,6 +1,8 @@
 /*
 Class NumToCompare
     main()
+        int numOne = 0
+        int numTwo = 0
         output("What is your number one? ")
         if(input is integer) then
             input numOne
